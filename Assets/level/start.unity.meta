@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: d8a8ba3b3c0795d4e9a88ca7682c89b2
+labels:
+- Architecture
+- Audio
+- Character
+- Concrete
+- Effect
+- Ground
+- Prop
+- Road
+- Sky
+- Terrain
+- Vegetation
+- Vehicle
+- Wall
+- Water
+- Weapon
+timeCreated: 1470895615
+licenseType: Free
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

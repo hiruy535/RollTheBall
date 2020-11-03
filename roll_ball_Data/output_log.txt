@@ -1,0 +1,465 @@
+Initialize engine version: 5.0.2f1 (0b02744d4013)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [igdumdim32.dll 20.19.15.4835]
+    Renderer: Intel(R) HD Graphics 4400
+    Vendor:   Intel
+    VRAM:     1136 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 NULL=1 RESZ=1 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: H:\pro\roll_ball_game\roll_ball_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading H:\pro\roll_ball_game\roll_ball_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: H:\pro\roll_ball_game\roll_ball_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading H:\pro\roll_ball_game\roll_ball_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: H:\pro\roll_ball_game\roll_ball_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading H:\pro\roll_ball_game\roll_ball_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: H:\pro\roll_ball_game\roll_ball_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading H:\pro\roll_ball_game\roll_ball_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.282 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initialized touch support.
+Platform assembly: H:\pro\roll_ball_game\roll_ball_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: H:\pro\roll_ball_game\roll_ball_Data\Managed\System.dll (this message is harmless)
+The AnimationClip 'sun' used by the Animation component 'sun 0' must be marked as Legacy.
+ 
+(Filename:  Line: 1901)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 400)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 398)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 6db0 -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.467500 ms
+The AnimationClip 'sun' used by the Animation component 'sun 6' must be marked as Legacy.
+ 
+(Filename:  Line: 1901)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 400)
+
+The AnimationClip 'sun' used by the Animation component 'sun 2' must be marked as Legacy.
+ 
+(Filename:  Line: 1901)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 400)
+
+The AnimationClip 'sun' used by the Animation component 'sun 7' must be marked as Legacy.
+ 
+(Filename:  Line: 1901)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 400)
+
+The AnimationClip 'sun' used by the Animation component 'sun 3' must be marked as Legacy.
+ 
+(Filename:  Line: 1901)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 400)
+
+The AnimationClip 'sun' used by the Animation component 'sun 1' must be marked as Legacy.
+ 
+(Filename:  Line: 1901)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 400)
+
+The AnimationClip 'sun' used by the Animation component 'sun 5' must be marked as Legacy.
+ 
+(Filename:  Line: 1901)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 400)
+
+The AnimationClip 'sun' used by the Animation component 'sun 4' must be marked as Legacy.
+ 
+(Filename:  Line: 1901)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 400)
+
+The AnimationClip 'sun' used by the Animation component 'sun 0' must be marked as Legacy.
+ 
+(Filename:  Line: 1901)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 400)
+
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 558.
+Total: 0.468500 ms (FindLiveObjects: 0.062400 ms CreateObjectMapping: 0.046700 ms MarkObjects: 0.329400 ms  DeleteObjects: 0.028900 ms)
+
+Platform assembly: H:\pro\roll_ball_game\roll_ball_Data\Managed\Boo.Lang.dll (this message is harmless)
+NullReferenceException: Object reference not set to an instance of an object
+  at killScript.OnTriggerEnter () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.899600 ms
+
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 385.
+Total: 0.432700 ms (FindLiveObjects: 0.024300 ms CreateObjectMapping: 0.017500 ms MarkObjects: 0.229300 ms  DeleteObjects: 0.160800 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.577500 ms
+The AnimationClip 'sun' used by the Animation component 'sun 0' must be marked as Legacy.
+ 
+(Filename:  Line: 1901)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 400)
+
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 441.
+Total: 0.434300 ms (FindLiveObjects: 0.033600 ms CreateObjectMapping: 0.030700 ms MarkObjects: 0.348800 ms  DeleteObjects: 0.020300 ms)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 398)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.893200 ms
+The AnimationClip 'sun' used by the Animation component 'sun 6' must be marked as Legacy.
+ 
+(Filename:  Line: 1901)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 400)
+
+The AnimationClip 'sun' used by the Animation component 'sun 2' must be marked as Legacy.
+ 
+(Filename:  Line: 1901)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 400)
+
+The AnimationClip 'sun' used by the Animation component 'sun 7' must be marked as Legacy.
+ 
+(Filename:  Line: 1901)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 400)
+
+The AnimationClip 'sun' used by the Animation component 'sun 3' must be marked as Legacy.
+ 
+(Filename:  Line: 1901)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 400)
+
+The AnimationClip 'sun' used by the Animation component 'sun 1' must be marked as Legacy.
+ 
+(Filename:  Line: 1901)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 400)
+
+The AnimationClip 'sun' used by the Animation component 'sun 5' must be marked as Legacy.
+ 
+(Filename:  Line: 1901)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 400)
+
+The AnimationClip 'sun' used by the Animation component 'sun 4' must be marked as Legacy.
+ 
+(Filename:  Line: 1901)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 400)
+
+The AnimationClip 'sun' used by the Animation component 'sun 0' must be marked as Legacy.
+ 
+(Filename:  Line: 1901)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 400)
+
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 593.
+Total: 0.386400 ms (FindLiveObjects: 0.044900 ms CreateObjectMapping: 0.035900 ms MarkObjects: 0.285300 ms  DeleteObjects: 0.019500 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at killScript.OnTriggerEnter () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.050400 ms
+
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 385.
+Total: 0.839500 ms (FindLiveObjects: 0.051000 ms CreateObjectMapping: 0.045900 ms MarkObjects: 0.481500 ms  DeleteObjects: 0.259400 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.748000 ms
+The AnimationClip 'sun' used by the Animation component 'sun 6' must be marked as Legacy.
+ 
+(Filename:  Line: 1901)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 400)
+
+The AnimationClip 'sun' used by the Animation component 'sun 2' must be marked as Legacy.
+ 
+(Filename:  Line: 1901)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 400)
+
+The AnimationClip 'sun' used by the Animation component 'sun 7' must be marked as Legacy.
+ 
+(Filename:  Line: 1901)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 400)
+
+The AnimationClip 'sun' used by the Animation component 'sun 3' must be marked as Legacy.
+ 
+(Filename:  Line: 1901)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 400)
+
+The AnimationClip 'sun' used by the Animation component 'sun 1' must be marked as Legacy.
+ 
+(Filename:  Line: 1901)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 400)
+
+The AnimationClip 'sun' used by the Animation component 'sun 5' must be marked as Legacy.
+ 
+(Filename:  Line: 1901)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 400)
+
+The AnimationClip 'sun' used by the Animation component 'sun 4' must be marked as Legacy.
+ 
+(Filename:  Line: 1901)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 400)
+
+The AnimationClip 'sun' used by the Animation component 'sun 0' must be marked as Legacy.
+ 
+(Filename:  Line: 1901)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 400)
+
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 595.
+Total: 0.399400 ms (FindLiveObjects: 0.049300 ms CreateObjectMapping: 0.022600 ms MarkObjects: 0.306300 ms  DeleteObjects: 0.020000 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at killScript.OnTriggerEnter () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.767700 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 830.
+Total: 0.579000 ms (FindLiveObjects: 0.069400 ms CreateObjectMapping: 0.060700 ms MarkObjects: 0.415500 ms  DeleteObjects: 0.032200 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at killScript.OnTriggerEnter () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.119700 ms
+
+Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 385.
+Total: 0.584700 ms (FindLiveObjects: 0.034600 ms CreateObjectMapping: 0.034400 ms MarkObjects: 0.336600 ms  DeleteObjects: 0.177900 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.727600 ms
+The AnimationClip 'sun' used by the Animation component 'sun 6' must be marked as Legacy.
+ 
+(Filename:  Line: 1901)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 400)
+
+The AnimationClip 'sun' used by the Animation component 'sun 2' must be marked as Legacy.
+ 
+(Filename:  Line: 1901)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 400)
+
+The AnimationClip 'sun' used by the Animation component 'sun 7' must be marked as Legacy.
+ 
+(Filename:  Line: 1901)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 400)
+
+The AnimationClip 'sun' used by the Animation component 'sun 3' must be marked as Legacy.
+ 
+(Filename:  Line: 1901)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 400)
+
+The AnimationClip 'sun' used by the Animation component 'sun 1' must be marked as Legacy.
+ 
+(Filename:  Line: 1901)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 400)
+
+The AnimationClip 'sun' used by the Animation component 'sun 5' must be marked as Legacy.
+ 
+(Filename:  Line: 1901)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 400)
+
+The AnimationClip 'sun' used by the Animation component 'sun 4' must be marked as Legacy.
+ 
+(Filename:  Line: 1901)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 400)
+
+The AnimationClip 'sun' used by the Animation component 'sun 0' must be marked as Legacy.
+ 
+(Filename:  Line: 1901)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 400)
+
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 595.
+Total: 0.537000 ms (FindLiveObjects: 0.055400 ms CreateObjectMapping: 0.034500 ms MarkObjects: 0.421800 ms  DeleteObjects: 0.024100 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at killScript.OnTriggerEnter () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.459800 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 830.
+Total: 0.613400 ms (FindLiveObjects: 0.071500 ms CreateObjectMapping: 0.051400 ms MarkObjects: 0.457600 ms  DeleteObjects: 0.031600 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at killScript.OnTriggerEnter () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at killScript.OnTriggerEnter () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at killScript.OnTriggerEnter () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at killScript.OnTriggerEnter () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at killScript.OnTriggerEnter () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at killScript.OnTriggerEnter () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at killScript.OnTriggerEnter () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at killScript.OnTriggerEnter () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at killScript.OnTriggerEnter () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.071500 ms
+
+Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 385.
+Total: 0.947600 ms (FindLiveObjects: 0.052500 ms CreateObjectMapping: 0.038600 ms MarkObjects: 0.482900 ms  DeleteObjects: 0.372400 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.665800 ms
+The AnimationClip 'sun' used by the Animation component 'sun 0' must be marked as Legacy.
+ 
+(Filename:  Line: 1901)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 400)
+
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 441.
+Total: 0.544000 ms (FindLiveObjects: 0.040900 ms CreateObjectMapping: 0.059100 ms MarkObjects: 0.423600 ms  DeleteObjects: 0.019100 ms)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 398)
+
+Game is exiting...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
